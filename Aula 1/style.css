@@ -1,0 +1,37 @@
+body{
+    background-color: rgb(193, 245, 159);
+}
+
+h1{
+    font-size: 50px;
+    line-height: 55px;
+    text-align: center;
+    color: rgb(65, 235, 130);
+    font-family: "Kaushan Script" , "Bebas Neue", Arial, Helvetica, sans-serif;
+}
+h2{
+    font-size: 40px;
+    line-height: 45px;
+    text-align: center;
+    color: aquamarine;
+    font-family: 'Courier New', Courier, monospace;   
+}
+
+p{font-size: 25px;
+    line-height: 20px;
+    color: rgb(159, 225, 236);
+    margin-top: 15%;
+    text-align: left;
+
+}
+
+
+/*/anotações
+font-size: px, em, %, vh(proporcional ao tamanho da página)
+text-aling: left, right, center, justify
+text-decoration(sublinhar)
+font-weight(negrito)
+font-style: italic
+font-family
+/*/
+
